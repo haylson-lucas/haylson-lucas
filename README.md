@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha pri
 
 ### 🌱 Atualmente estudando
 - Python
-- Lógica de programação e estruturas de dados
+- Lógica de programação e banco de dados
 
 ### 📫 Como me encontrar
 - LinkedIn: (https://www.linkedin.com/in/haylson-lucas-810a01384)
